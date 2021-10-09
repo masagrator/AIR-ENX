@@ -18,14 +18,14 @@ Port of translation is based on patr0805's work with PSP English translation mod
 Their translation is based mostly on "Gao Gao Translations" work with tidbits from "Winter Confetti" translation.
 Big thanks to all people involved with AIR translation.
 
-Sources:
-https://patr0805.wordpress.com/2020/02/13/air-psp-first-release/
-https://gaogaotranslation.wordpress.com/
-https://winter-confetti.blogspot.com/2014/04/air-standard-edition-2005-english-patch.html
+Sources:</br>
+https://patr0805.wordpress.com/2020/02/13/air-psp-first-release/ </br>
+https://gaogaotranslation.wordpress.com/ </br>
+https://winter-confetti.blogspot.com/2014/04/air-standard-edition-2005-english-patch.html </br>
 
 ---
 
-#Making mod manually
+# Making mod manually
 
 Requirements:
 - Python 3.10+ (and libraries: `numpy`, `PyPNG`)
@@ -37,6 +37,7 @@ If you want to use cmd files, you need:
 For plugin compilation you need:
 - devkitpro (with `switch-dev` package installed)
 
+Instructions: 
 1. Download repo with all submodules
 2. Extract `SCRIPT.PAK` and `image\PARTS.PAK` from romfs of game. You can use [NXDumpTool](https://github.com/DarkMatterCore/nxdumptool/releases) for that. Put those files to `PAKs` folder in downloaded repo,
 3. Run `0.Unpack.cmd` without Administrator privileges,
@@ -46,7 +47,7 @@ For plugin compilation you need:
 7. Copy `atmosphere` folder to the root of sdcard used in your Switch,
 8. Run game.
 
-#Installing mod from release
+# Installing mod from release
 1. Download "MOD.zip"
 2. (Optional - don't use it in emulator) Download "Plugin.zip"
 3. Unpack both and copy `atmosphere` folder to the root of sdcard used in your Switch,
@@ -54,7 +55,7 @@ For plugin compilation you need:
 
 ---
 
-#Notes
+# Notes
 
 - Main chapters that exists both in PSP and Switch version has scenario almost 1:1. Switch version has additional few lines in place where H-scenes in PC occur.
 - Some texts were swapped in favor of "Winter Confetti" translation as their text felt more natural.
