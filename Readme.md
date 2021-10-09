@@ -1,6 +1,6 @@
 # AIR-ENX
 
-English translation mod for Nintendo Switch version of "Air"
+English translation mod for Nintendo Switch version of "Air" 1.0.1
 
 ---
 
