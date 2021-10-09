@@ -209,5 +209,7 @@ std::vector<std::string> ENG = {
 	"Jump",
 	"Select Music",
 	"There are no keywords.",
-	"Next"
+	"Next",
+	"Quick Load",
+	"Quick Load"
 };
