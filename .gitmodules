@@ -1,0 +1,3 @@
+[submodule "AIR-texts"]
+	path = AIR-texts
+	url = https://github.com/masagrator/AIR-texts

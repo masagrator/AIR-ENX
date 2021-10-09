@@ -1,0 +1,6 @@
+*.txt
+*.PAK
+new/
+json/
+atmosphere/
+Compiled/
