@@ -13,6 +13,7 @@ To do:
 Known issues:
 - Plugin is required for translating most of settings texts, fixing date format and putting english warning text. It is known that plugins made with Skyline framework are not compatible with any emulator last time this repository was updated (it will result in emulator's crash). Do not use plugin if you are using emulator.
 - Images containing Japanese text in scenario are not translated. But their translation can be seen in message logs when available after showing image(s).
+- Any change to scenario file makes saves pointing to this scenario in most cases broken (trying to load it will result in going back to main menu). Main save data is not touched by this issue. If you are updating mod, be aware that your saves may not work anymore and you will need to skip through chapter's text to the point where you have ended.
 
 Port of translation is based on patr0805's work with PSP English translation mod as they share similarities in how scenario was handled.
 Their translation is based mostly on "Gao Gao Translations" work with tidbits from "Winter Confetti" translation.
