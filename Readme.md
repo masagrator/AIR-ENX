@@ -6,6 +6,12 @@ English translation mod for Nintendo Switch version of "Air" 1.0.1
 
 Current status: **Alpha**
 
+Chapters translation status:
+- Dream 100%
+- Summer 100%
+- Air 100%
+- 初空の章 (Hatsusora no Shou) 0%
+
 To do:
 - Replace images with translated text
 - Translate 4th chapter (no translation exists on any platform)
