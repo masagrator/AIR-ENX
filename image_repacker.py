@@ -42,9 +42,10 @@ for i in range(0, file_count):
     new_file.write(Filenames[i].encode("UTF-8"))
     new_file.write(b"\x00")
 
+file.seek(new_file.tell(), 0)
 while(True):
     if (new_file.tell() == header_size): break
-    new_file.write(b"\x00")
+    new_file.write(file.read(0x1))
 
 for i in range(0, file_count):
     script = open("%s\%s.dat" % (sys.argv[1][:-4], Filenames[i]), "rb")
