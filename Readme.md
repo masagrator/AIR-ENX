@@ -2,6 +2,8 @@
 
 English translation mod for Nintendo Switch version of "Air" 1.0.1
 
+![GitHub all releases](https://img.shields.io/github/downloads/masagrator/AIR-ENX/total?style=for-the-badge)
+
 ---
 
 Current status: **Alpha**
