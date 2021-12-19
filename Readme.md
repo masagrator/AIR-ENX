@@ -64,5 +64,5 @@ Instructions:
 
 # Notes
 
-- Main chapters that exists both in PSP and Switch version has scenario almost 1:1. Switch version has additional few lines in place where H-scenes in PC occur.
+- Main chapters that exists both in PSP and Switch version have scenario almost 1:1. Switch version has additional few lines in place where H-scenes in PC occur.
 - Some texts were swapped in favor of "Winter Confetti" translation as their text felt more natural.
