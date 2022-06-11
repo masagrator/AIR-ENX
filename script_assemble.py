@@ -535,7 +535,7 @@ for i in range(0, len(Filenames)):
             print("%s not in EXCEPTIONS. Ignoring..." % (Filenames[i]))
             continue
     print(Filenames[i])
-    file = open("json\%s.json" % (Filenames[i]), "r")
+    file = open("json\%s.json" % (Filenames[i]), "r", encoding="UTF-8")
     DUMP = json.load(file)
     COMMAND_OUTPUT_SIZE = []
     file.close()
