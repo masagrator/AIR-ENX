@@ -19,7 +19,7 @@ To do:
 - Translate 4th chapter (no translation exists on any platform)
 
 Known issues:
-- Plugin is required for translating most of settings texts, fixing date format and putting english warning text. It is known that plugins made with Skyline framework are not compatible with any emulator last time this repository was updated (it will result in emulator's crash). Do not use plugin if you are using emulator.
+- Plugin is required for translating most of settings texts, fixing date format and putting english warning text. It is known that plugins made with Skyline framework are compatible with Yuzu, but not with RyujinX (it will result in emulator's crash). Do not use plugin if you are using RyujinX.
 - Images containing Japanese text in scenario are not translated. But their translation can be seen in message logs when available after showing image(s).
 - Any change to scenario file makes saves pointing to this scenario in most cases broken (trying to load it will result in going back to main menu). Main save data is not touched by this issue. If you are updating mod, be aware that your saves may not work anymore and you will need to skip through chapter's text to the point where you have ended.
 
@@ -58,7 +58,7 @@ Instructions:
 
 # Installing mod from release
 1. Download "MOD.zip"
-2. (Optional - don't use it in emulator) Download "Plugin.zip"
+2. (Optional - don't use it in RyujinX) Download "Plugin.zip"
 3. Unpack both and copy `atmosphere` folder to the root of sdcard used in your Switch,
 4. Run game
 
